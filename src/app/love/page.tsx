@@ -7,7 +7,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from "react";
 
-const page = () => {
+const LovePage = () => {
     useEffect(() => {
                 AOS.init();
             }, []);
@@ -24,7 +24,7 @@ const page = () => {
       <p className="text-md lg:text-lg text-rose-900 font-body w-3/5"> 
         Aku mau kamu tau kalo misalnya aku bener bener sayang sama kamu dan bukan cuma karena suatu alesan sepele.
         I love you because the way that you can handle your emotion and talk out the problems that we had,
-        I love you because you're smart and diligent, I love you because you are in Skhole and likes to teach.
+        I love you because you&apos;re smart and diligent, I love you because you are in Skhole and likes to teach.
         I love you for so many more reason. Aku ga mau kamu berpikir hal buruk apapun itu, karena kamu perempuan yang sangat indah di mata aku 
         dan aku mau perjuangin kamu sepenuhnya 🤕  
       </p>
@@ -44,4 +44,4 @@ const page = () => {
   )
 }
 
-export default page
+export default LovePage

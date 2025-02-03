@@ -23,7 +23,7 @@ return (
         Heartfelt Apology
       </h1>
       <p className="text-md lg:text-lg text-rose-800 font-body w-3/5"> 
-        Aku mau minta maaf sekali lagi, i know i've said it one and too may times but i really meant it and because even after saying sorry i still feel so much guilt. 
+        Aku mau minta maaf sekali lagi, I know i&apos;ve said it one and too may times but i really meant it and because even after saying sorry i still feel so much guilt. 
         Aku minta maaf karena aku harusnya bisa nemenin kamu dan buat kamu tenang tapi aku malah ketiduran 😔. Aku tau itu buat kamu sedih banget dan aku ga bisa berenti kepikiran dan jadi kerasa ngeganjel banget 🥺.
         Aku cuma bisa berharap kamu bisa sepenuhnya maafin aku dan perasaan ga enak kamu terhadap aku bisa hilang dan aku juga bakal berusaha sebisa mungkin biar kejadian ini ga terulang lagi 😔.  
       </p>
