@@ -20,7 +20,7 @@ return (
         <h1 className='font-heading text-rose-900 text-lg lg:text-2xl font-bold'>
             Love you!
         </h1>
-        <p className="text-md lg:text-lg text-rose-800 font-body w-3/5"> 
+        <p className="text-sm lg:text-lg text-rose-800 font-body w-4/5 lg:w-3/5"> 
             I love you so much I really do, and yes I do made this overnight and sorry if this maybe not enough to your satisfaction or liking
             but I really just can&apos;t sleep thinking about it and want to get it out of my chest 🫠. I also want to make things more clear before you go to Singapore.
             I hope you have a safe and really fun trip ❤️ can&apos;t wait to hear all the stories from your trip!
