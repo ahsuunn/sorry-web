@@ -21,7 +21,7 @@ const LovePage = () => {
       <Link href="/apology">
         <BackButton/>
       </Link>
-      <Image src='/red-heart-bumping.gif' width={40} height={40} alt='' className='min-w-[50px] w-[100px]'/>
+      <Image unoptimized src='/red-heart-bumping.gif' width={40} height={40} alt='' className='min-w-[50px] w-[100px]'/>
       <SplitText
         text="What you meant for me"
         className="font-heading text-rose-900 text-lg lg:text-2xl font-bold"
@@ -40,15 +40,7 @@ const LovePage = () => {
         I love you for so many more reason. Aku ga mau kamu berpikir hal buruk apapun itu, karena kamu perempuan yang sangat indah di mata aku 
         dan aku mau perjuangin kamu sepenuhnya 🤕  
       </p>
-      <div className='flex items-center gap-1 lg:gap-2'>
-        <Image src='/glenn.jpg' alt='' height={225} width={225} className='min-w-[20px] w-[55px]'/>
-        <Link href='https://www.youtube.com/watch?v=H-FqphdQMVY'>
-            <p className='text-rose-900 text-sm lg:text-lg font-semibold'>
-                You Are My Everything - Glenn Fredly
-            </p>
-        </Link>
-      </div>
-
+      <iframe width="300" height="200" src="https://www.youtube.com/embed/xVyovVYfv5U?si=bXM9NDD2Z1v_NxXO" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" className='h-auto max-w-4/5' allowFullScreen></iframe>
       <Link href="/closing" className='py-4'>
         <ForwardButton/>        
       </Link>
